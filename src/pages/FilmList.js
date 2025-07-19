@@ -8,7 +8,7 @@ export default function FilmList() {
   const navigate = useNavigate();
 
   useEffect(() => {
-    fetch("/mangalistreact/json/film.json")
+    fetch(`${process.env.PUBLIC_URL}/json/film.json`)
       .then(res => res.json())
       .then(data => setFilms(data))
       .catch(err => console.error(err));

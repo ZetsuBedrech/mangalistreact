@@ -8,7 +8,7 @@ export default function SerieList() {
   const navigate = useNavigate();
 
   useEffect(() => {
-    fetch("/mangalistreact/json/serie.json")
+    fetch(`${process.env.PUBLIC_URL}/json/serie.json`)
       .then(res => res.json())
       .then(data => setSeries(data))
       .catch(err => console.error(err));
