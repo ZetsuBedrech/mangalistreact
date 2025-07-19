@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Hyouka",
+        "numbers": 22,
+        "note": "10",
+        "tags": ["Slice of Life", "Mystère"]
+    },
+    {
+        "title": "K",
+        "numbers": 13,
+        "note": "10",
+        "tags": ["Action", "Mystère"]
+    },
+    {
+        "title": "Suisei no Gargantia",
+        "numbers": 13,
+        "note": "10",
+        "tags": ["Action", "Aventure", "Science Fiction"]
+    },
+    {
+        "title": "Aldnoah Zero",
+        "numbers": 12,
+        "note": "10",
+        "tags": ["Action", "Science Fiction", "Robots"]
+    },
+    {
+        "title": "Barakamon",
+        "numbers": 12,
+        "note": "10",
+        "tags": ["Slice of Life"]
+    },
+    {
+        "title": "Tanaka Kun wa Itsumo Kedaruge",
+        "numbers": 12,
+        "note": "10",
+        "tags": ["Slice of Life"]
+    },
+    {
+        "title": "Handa Kun",
+        "numbers": 12,
+        "note": "10",
+        "tags": ["Slice of Life"]
+    },
+    {
+        "title": "Re:Creator",
+        "numbers": 22,
+        "note": "10",
+        "tags": ["Action", "Fantasy"]
+    },
+    {
+        "title": "Made in Abyss",
+        "numbers": 13,
+        "note": "10",
+        "tags": ["Aventure", "Drame", "Fantasy", "Mystère", "Science Fiction"]
+    },
+    {
+        "title": "Tensei Shitara Slime Datta Ken",
+        "numbers": 24,
+        "note": "10",
+        "tags": ["Action", "Fantasy", "Comédie"]
+    },
+    {
+        "title": "Dr.Stone",
+        "numbers": 24,
+        "note": "10",
+        "tags": ["Aventure", "Comédie", "Science Fiction"]
+    },
+    {
+        "title": "86",
+        "numbers": 11,
+        "note": "10",
+        "tags": ["Action", "Drame", "Science Fiction"]
+    },
+    {
+        "title": "Blue Period",
+        "numbers": 12,
+        "note": "10",
+        "tags": ["Ecole", "Slice of Life", "Art"]
+    },
+    {
+        "title": "Bocchi The Rock",
+        "numbers": 12,
+        "note": "10",
+        "tags": ["Comédie", "Musique", "Slice of Life"]
+    },
+    {
+        "title": "Vinland Saga",
+        "numbers": 48,
+        "note": "10",
+        "tags": ["Action", "Aventure", "Drame"]
+    }
+]

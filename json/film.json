@@ -1,0 +1,123 @@
+[
+    {
+        "title": "Interstellar",
+        "note": 10,
+        "description":"Tandis que l'humanité se meurt sur Terre, un groupe d'astronautes voyage à travers un trou de ver à la recherche d'une autre planète habitable.",
+        "img": "interstellar.jpg"
+    },
+    {
+        "title": "I want to East your Pancreas",
+        "note": 10,
+        "description": "Un jeune lycéen tombe amoureux d'une de ses camarades de classe qui n'a plus que quelques mois à vivre et l'aide à vivre pleinement sa vie avant qu'elle ne disparaisse.",
+        "img":"pancreas.jpg"
+    },
+    {
+        "title": "Sakasama no Patema",
+        "note": 10,
+        "description": "uite à une immense catastrophe naturelle, la Terre telle que l'on la connaît est scindée en deux mondes qui semblent défier les lois de la gravité. Patema est une jeune fille de 13 ans qui vit dans l'un de ces mondes. Rêveuse, envieuse d'exploration, elle fait un jour la rencontre de Eiji, un garçon de son âge qui vit dans le monde parallèle...",
+        "img":"sakasama.jpg"
+    },
+    {
+        "title": "Weathering with You",
+        "note": 10,
+        "description": "Un lycéen qui s'est enfui à Tokyo se lie d'amitié avec une fille qui semble être capable de manipuler la météo.",
+        "img":"weathering.jpg"
+    },
+    {
+        "title": "Your Name",
+        "note": 10,
+        "description": "Deux étrangers se retrouvent liés d'une étrange manière. Quand une connexion se forme entre eux, la distance sera-t-elle la seule chose qui les séparera?",
+        "img":"yourname.jpg"
+    },
+    {
+        "title": "Bubble",
+        "note": 10,
+        "description": "Dans un Tokyo abandonné, infesté de bulles et d'anomalies gravitationnelles, le destin rapproche un jeune homme brillant et une jeune fille mystérieuse.",
+        "img":"bubble.jpg"
+    },
+    {
+        "title": "La Nuit au Musée",
+        "note": 9,
+        "description": "Le Muséum d'Histoire Naturelle renferme dans ses murs un secret mystérieux et stupéfiant que Larry, nouveau gardien de sécurité, ne va pas tarder à découvrir avec affolement : la nuit, toutes les expositions prennent vie !",
+        "img":"lanuitaumusee.jpg"
+    },
+    {
+        "title": "Arcane",
+        "note": 10,
+        "description": "Championnes de leurs villes jumelles et rivales, deux sœurs se battent dans une guerre où font rage des technologies magiques et des perspectives diamétralement opposées.",
+        "img":"arcane.jpg"
+    },
+    {
+        "title": "The Cloverfield Paradox",
+        "note": 7,
+        "description": "Une équipe de scientifiques envoyée en orbite pour sauver la planète d'une destruction imminente se retrouve face à une sombre réalité alternative.",
+        "img": "cloverfield.jpg"
+    },
+    {
+        "title": "Time Trap",
+        "note": 10,
+        "description": "Partis à la recherche de leur professeur d'archéologie disparu, des étudiants découvrent une grotte où le temps ne s'écoule pas au même rythme qu'à la surface.",
+        "img":"timetrap.jpg"
+    },
+    {
+        "title": "Retour Vers le Futur",
+        "note": 10,
+        "description": "Après être arrivé en 1955 à bord d'une DeLorean convertie en machine à remonter le temps, Marty McFly fonce pour s'assurer que ses futurs parents tombent amoureux.",
+        "img":"retourverslefutur.jpg"
+    },
+    {
+        "title": "Paul",
+        "note": 6,
+        "description": "Deux fans de science-fiction déterminés à découvrir ce que cache la mystérieuse zone 51 au milieu du désert du Nevada croisent la route d'un extraterrestre en cavale.",
+        "img":"paul.jpg"
+    },
+    {
+        "title": "Pandora",
+        "note": 10,
+        "description": "Quand un séisme dévaste un village coréen où une centrale nucléaire est en activité malgré sa vétusté, un homme risque sa vie pour sauver le pays du désastre annoncé.",
+        "img":"pandora.jpg"
+    },
+    {
+        "title": "Les Murs Vagabonds",
+        "note": 9,
+        "description": "Au cours d'un été fatidique, des écoliers à la dérive dans un immeuble abandonné doivent puiser dans leurs ressources pour trouver un moyen de rentrer chez eux.",
+        "img":"lesmurs.jpg"
+    },
+    {
+        "title": "Hunger",
+        "note": 6,
+        "description": "Une jeune femme à la tête d'un restaurant de cuisine de rue repousse ses limites après avoir accepté d'être formée par un grand chef aussi talentueux qu'implacable.",
+        "img":"hunger.jpg"
+    },
+    {
+        "title": "Adam a Travers le Temps",
+        "note": 7,
+        "description": "Après un atterrissage forcé en 2022, le pilote de chasse et voyageur dans le temps Adam Reed fait équipe avec une version de lui-même âgée de 12 ans pour sauver le futur.",
+        "img":"adam.jpg"
+    },
+    {
+        "title": "Circle",
+        "note": 6,
+        "description": "Plusieurs personnes kidnappées pour être exécutées doivent choisir celui ou celle qui mérite de vivre parmi eux.",
+        "img":"circle.jpg"
+    },
+    {
+        "title": "Escape Game",
+        "note": 8,
+        "description": "Six étrangers doivent faire appel à leur intelligence pour sortir vivants d'une succession de salles mystérieuses et mortelles inspirées de leurs pires cauchemars.",
+        "img":"escapegame.jpg"
+    },
+    
+    {
+        "title": "Ready Player One",
+        "note": 9,
+        "description": "Dans un monde dévasté, un jeune gamer talentueux se lance dans une compétition planétaire. L'enjeu ? L'héritage d'un trésor et d'un immense univers de réalité virtuelle.",
+        "img":"readyplayerone.jpg"
+    },
+    {
+        "title": "Tau",
+        "note": 7,
+        "description": "Kidnappée par un inventeur qui a fait d'elle un cobaye pour perfectionner son IA, une jeune femme débrouillarde essaie de s'échapper de sa prison high-tech.",
+        "img":"tau.jpg"
+    }
+]
