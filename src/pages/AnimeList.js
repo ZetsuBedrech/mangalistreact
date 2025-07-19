@@ -6,7 +6,7 @@ export default function AnimeList() {
   const [filter, setFilter] = useState('Tous');
 
   useEffect(() => {
-    fetch('/json/anime.json')
+    fetch("/mangalistreact/json/anime.json")
       .then(res => res.json())
       .then(data => setAnimes(data))
       .catch(err => console.error('Erreur de chargement :', err));

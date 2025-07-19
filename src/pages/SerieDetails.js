@@ -7,7 +7,7 @@ export default function SerieDetails() {
   const navigate = useNavigate();
 
   useEffect(() => {
-    fetch('/json/serie.json')
+    fetch("/mangalistreact/json/serie.json")
       .then(res => res.json())
       .then(data => {
         const found = data.find(s => s.title === decodeURIComponent(title));
@@ -25,7 +25,7 @@ export default function SerieDetails() {
       <h1>{serie.title}</h1>
       <p>Note : {serie.note} / 10</p>
       <p>Description : {serie.description}</p>
-      {serie.img && <img src={`/images/${serie.img}`} alt={serie.title} style={{ maxWidth: '100%', borderRadius: 8 }} />}
+      {serie.img && <img src={`/mangalistreact/images/${serie.img}`} alt={serie.title} style={{ maxWidth: '100%', borderRadius: 8 }} />}
       <br />
       <button className="btn btn-primary mt-3" onClick={() => navigate(-1)}>Retour</button>
     </div>

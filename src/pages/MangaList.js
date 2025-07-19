@@ -6,7 +6,7 @@ export default function MangaList() {
   const [filter, setFilter] = useState('Tous');
 
   useEffect(() => {
-    fetch('/json/manga.json')
+    fetch("/mangalistreact/json/manga.json")
       .then(res => res.json())
       .then(data => setMangas(data))
       .catch(err => console.error(err));

@@ -7,7 +7,7 @@ export default function FilmDetails() {
   const navigate = useNavigate();
 
   useEffect(() => {
-    fetch('/json/film.json')
+    fetch("/mangalistreact/json/film.json")
       .then(res => res.json())
       .then(data => {
         const found = data.find(f => f.title === title);
@@ -23,7 +23,7 @@ export default function FilmDetails() {
       <h1>{film.title}</h1>
       <p>Note : {film.note} / 10</p>
       <p>Description : {film.description}</p>
-      <img src={`/images/${film.img}`} alt={film.title} style={{ maxWidth: '300px', borderRadius: '10px' }} />
+      <img src={`/mangalistreact/images/${film.img}`} alt={film.title} style={{ maxWidth: '300px', borderRadius: '10px' }} />
       <br />
       <button className="btn btn-primary mt-3" onClick={() => navigate(-1)}>Retour</button>
     </div>
