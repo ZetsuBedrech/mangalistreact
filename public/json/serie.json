@@ -1,0 +1,57 @@
+[
+    {
+        "title": "8 Shows",
+        "numbers": 8,
+        "note": "7",
+        "description": "Huit personnes piégées dans un mystérieux immeuble de huit étages participent à une émission tentante mais dangereuse dans laquelle leurs gains augmentent avec le temps.",
+        "img": "8show.jpg"
+    },
+    {
+        "title": "Squid Game",
+        "note": 7,
+        "description": "Tentés par un prix alléchant en cas de victoire, des centaines de joueurs désargentés acceptent de s'affronter lors de jeux pour enfants aux enjeux mortels.",
+        "img": "squidgame.jpg"
+    },
+    {
+        "title": "All of Us Are Dead",
+        "note": 6,
+        "description": "Un lycée devient l'épicentre d'une épidémie liée à un virus zombie. Pris au piège, les élèves devront lutter pour s'échapper ou risquer d'être à leur tour contaminés.",
+        "img": "allofusaredead.jpeg"
+    },
+    {
+        "title": "How to Sell Drugs Online (Fast)",
+        "note": 8,
+        "description": "Pour reconquérir son ex, un ado fou d'informatique se met à vendre de l'ecstasy en ligne, et devient l'un des plus gros dealers d'Europe... sans quitter sa chambre.",
+        "img": "howtosell.jpg"
+    },
+    {
+        "title": "Stranger Things",
+        "note": 7,
+        "description": "Quand un jeune garçon disparaît, une petite ville découvre une affaire mystérieuse, des expériences secrètes, des forces surnaturelles terrifiantes... et une fillette.",
+        "img": "strangerthings.jpg"
+    },
+    {
+        "title": "Alice in Borderlands",
+        "note": 6,
+        "description": "Un gamer paumé et ses deux amis se retrouvent dans un Tokyo parallèle, où ils sont contraints de participer à une série de jeux sadiques pour survivre",
+        "img": "aliceinborderland.jpg"
+    },
+    {
+        "title": "Sweet Home",
+        "note": 8,
+        "description": "Alors que les humains se transforment en monstres féroces et que le monde s'enfonce dans le chaos, une poignée de survivants luttent pour survivre, et pour sauver leur humanité.",
+        "img": "sweethome.jpg"
+    },
+    {
+        "title": "On My Block",
+        "note": 7,
+        "description": "Dans un quartier difficile de Los Angeles, l'amitié de quatre ados futés et drôles est mise à l'épreuve quand ils rentrent au lycée.",
+        "img": "onmyblock.png"
+    },
+    {
+        "title": "Mortel",
+        "note": 6,
+        "description": "Après avoir conclu un marché avec un être surnaturel, deux lycéens doivent unir les super-pouvoirs qu'ils viennent d'acquérir pour retrouver un assassin.",
+        "img": "mortel.jpg"
+    }
+]
