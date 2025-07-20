@@ -24,10 +24,7 @@ export default function MangaList() {
       <input className="form-control w-25 shadow-sm m-2 mx-auto" type="text" placeholder="Rechercher un manga..." value={search} onChange={e => setSearch(e.target.value)}/>
     <div>
         {['Tous', 'Priorité', 'En cours', 'En pause', 'Arrêté', 'Fini'].map(status => (
-          <button
-            key={status}
-            onClick={() => setFilter(status)}
-            style={{
+          <button style={{
               marginRight: 8,
               backgroundColor: filter === status ? '#007bff' : '#eee',
               color: filter === status ? '#fff' : '#000',
@@ -35,10 +32,7 @@ export default function MangaList() {
               borderRadius: 4,
               padding: '6px 12px',
               cursor: 'pointer'
-            }}
-          >
-            {status}
-          </button>
+            }} key={status} onClick={() => setFilter(status)}>{status}</button>
         ))}
       </div>
 

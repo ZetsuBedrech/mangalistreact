@@ -13,7 +13,7 @@ function App() {
     <Router>
       <Header />
       <Routes>
-        <Route path="/" element={<MangaList />} />
+        <Route path="*" element={<MangaList />} />
         <Route path="/anime" element={<AnimeList />} />
         <Route path="/film" element={<FilmList />} />
         <Route path="/serie" element={<SerieList />} />
