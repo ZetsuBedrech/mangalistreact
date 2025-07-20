@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mangalistreact/static/css/main.9be90eed.css",
-    "main.js": "/mangalistreact/static/js/main.76861f3b.js",
+    "main.js": "/mangalistreact/static/js/main.3b856c3a.js",
     "static/js/453.861d0a32.chunk.js": "/mangalistreact/static/js/453.861d0a32.chunk.js",
     "index.html": "/mangalistreact/index.html",
     "main.9be90eed.css.map": "/mangalistreact/static/css/main.9be90eed.css.map",
-    "main.76861f3b.js.map": "/mangalistreact/static/js/main.76861f3b.js.map",
+    "main.3b856c3a.js.map": "/mangalistreact/static/js/main.3b856c3a.js.map",
     "453.861d0a32.chunk.js.map": "/mangalistreact/static/js/453.861d0a32.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9be90eed.css",
-    "static/js/main.76861f3b.js"
+    "static/js/main.3b856c3a.js"
   ]
 }
