@@ -30,7 +30,8 @@ export default function MangaList() {
               color: filter === status ? '#fff' : '#000',
               border: 'none',
               borderRadius: 4,
-              padding: '6px 12px',
+              padding: '5px 10px',
+              margin:'1px',
               cursor: 'pointer'
             }} key={status} onClick={() => setFilter(status)}>{status}</button>
         ))}

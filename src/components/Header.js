@@ -4,7 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 function Header() {
   return (
     <header>
-      <ul className="nav nav-pills nav-fill gap-2 p-1 bg-primary">
+      <ul className="nav nav-pills nav-fill p-1 bg-primary">
         <li className="nav-item">
           <Link to="/" className="nav-link active rounded-5">MangaList</Link>
         </li>
