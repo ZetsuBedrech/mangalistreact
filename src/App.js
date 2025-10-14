@@ -8,6 +8,8 @@ import SerieList from './pages/SerieList';
 import FilmDetails from './pages/FilmDetails';
 import SerieDetails from './pages/SerieDetails';
 import { useEffect } from 'react';
+import AdminSeries from './pages/AdminSeries';
+
 
 function TitleManager() {
   const location = useLocation();
