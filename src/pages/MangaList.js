@@ -21,6 +21,7 @@ export default function MangaList() {
 
   return (
     <div className="text-center">
+      <h2 className="text-center text-black fs-1">Liste de mangas</h2>
       <input className="form-control w-25 shadow-sm m-2 mx-auto" type="text" placeholder="Rechercher un manga..." value={search} onChange={e => setSearch(e.target.value)}/>
     <div>
         {['Tous', 'Priorité', 'En cours', 'En pause', 'Arrêté', 'Fini'].map(status => (
