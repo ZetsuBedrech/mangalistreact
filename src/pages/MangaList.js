@@ -6,10 +6,10 @@ export default function MangaList() {
   const [filter, setFilter] = useState('Tous');
 
   useEffect(() => {
-    fetch(`${process.env.PUBLIC_URL}/json/manga.json`)
-      .then(res => res.json())
-      .then(data => setMangas(data))
-      .catch(err => console.error(err));
+    fetch(`${process.env.PUBLIC_URL}/json/manga.json?cacheBust=${Date.now()}`)
+    .then(res => res.json())
+    .then(data => setMangas(data))
+    .catch(err => console.error(err));
   }, []);
 
   // Filtrage selon recherche + filtre
